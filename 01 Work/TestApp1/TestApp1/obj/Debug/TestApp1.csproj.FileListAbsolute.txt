@@ -1,0 +1,11 @@
+F:\杰思敏\开发库\TestApp1\TestApp1\bin\Debug\TestApp1.exe.config
+F:\杰思敏\开发库\TestApp1\TestApp1\bin\Debug\TestApp1.exe
+F:\杰思敏\开发库\TestApp1\TestApp1\bin\Debug\TestApp1.pdb
+F:\杰思敏\开发库\TestApp1\TestApp1\bin\Debug\DocumentFormat.OpenXml.dll
+F:\杰思敏\开发库\TestApp1\TestApp1\bin\Debug\DocumentFormat.OpenXml.xml
+F:\杰思敏\开发库\TestApp1\TestApp1\obj\Debug\TestApp1.csprojAssemblyReference.cache
+F:\杰思敏\开发库\TestApp1\TestApp1\obj\Debug\TestApp1.csproj.ResolveComReference.cache
+F:\杰思敏\开发库\TestApp1\TestApp1\obj\Debug\TestApp1.csproj.CoreCompileInputs.cache
+F:\杰思敏\开发库\TestApp1\TestApp1\obj\Debug\TestApp1.csproj.CopyComplete
+F:\杰思敏\开发库\TestApp1\TestApp1\obj\Debug\TestApp1.exe
+F:\杰思敏\开发库\TestApp1\TestApp1\obj\Debug\TestApp1.pdb
